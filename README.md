@@ -1,6 +1,6 @@
 <p align="center">
   <h1 align="center">🔥 ThermoTorch</h1>
-  <p align="center"><strong>A PyTorch Bridge to Thermodynamic Computing Hardware</strong></p>
+  <p align="center"><strong>ThermoTorch is a standalone PyTorch bridge and Latent PFE engine for Extropic's THRML hardware ecosystem.</strong></p>
   <p align="center">
     <em>Write normal PyTorch code. Let physics do the heavy lifting.</em>
   </p>
